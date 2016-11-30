@@ -36,9 +36,9 @@ namespace PoGo.NecroBot.CLI
         private static bool _ignoreKillSwitch;
                                                                  
         private static readonly Uri StrKillSwitchUri =
-            new Uri("https://raw.githubusercontent.com/Necrobot-Private/Necrobot2/master/KillSwitch.txt");
+            new Uri("https://raw.githubusercontent.com/xDyN/Necro/master/KillSwitch.txt");
         private static readonly Uri StrMasterKillSwitchUri =
-            new Uri("https://raw.githubusercontent.com/Silph-Road/NecroBot/master/PoGo.NecroBot.Logic/MKS.txt");
+            new Uri("https://raw.githubusercontent.com/xDyN/Necro/master/PoGo.NecroBot.Logic/MKS.txt");
 
         private static Session _session;
 
